@@ -1,4 +1,6 @@
-
+//
+// Problem #5
+// https://projecteuler.net/problem=5
 
 object Euler05 {
 

@@ -1,3 +1,7 @@
+//
+// Problem #1
+// https://projecteuler.net/problem=1
+
 object Euler01 {
 
   def sum(max: Int, divisors: List[Int]) = {

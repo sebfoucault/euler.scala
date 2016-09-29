@@ -1,3 +1,7 @@
+//
+// Problem #2
+// https://projecteuler.net/problem=2
+
 object Euler02 {
 
   def sumFibo(max: Int): Int = {
