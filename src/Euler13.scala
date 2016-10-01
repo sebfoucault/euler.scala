@@ -1,6 +1,6 @@
 /**
-  * Problem #12
-  * [[https://projecteuler.net/problem=12]]
+  * Problem #13
+  * [[https://projecteuler.net/problem=13]]
   */
 object Euler13 {
 
